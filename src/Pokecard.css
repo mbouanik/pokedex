@@ -1,0 +1,8 @@
+.Pokecard-pokemons {
+  display: flex;
+  /* justify-content: center; */
+  flex-flow: row wrap;
+  padding: 1rem;
+  gap: 5rem;
+  text-align: center;
+}
